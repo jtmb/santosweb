@@ -36,7 +36,8 @@ Antonio Santos is a prolifient writer . This is a self hosted project meant to p
 
 ---
 
-![alt text](src/image.png)
+<img src="src/image.png" alt="alt text" height="270" width="500"> <img src="src/image2.png" alt="alt text" width="300">
+
 
 
 ### <h2>Getting Started</h2>
